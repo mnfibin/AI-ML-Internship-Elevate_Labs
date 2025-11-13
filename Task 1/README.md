@@ -124,7 +124,7 @@ Place the `Titanic-Dataset.csv` file in the project directory.
 ## 📁 Project Structure
 
 ```
-titanic-data-preprocessing/
+Task 1/
 │
 ├── Titanic-Dataset.csv           # Raw dataset
 ├── titanic_preprocessing.py      # Main preprocessing script
@@ -547,3 +547,4 @@ X_train, y_train = preprocess_titanic('Titanic-Dataset.csv')
 ```
 
 ---
+
