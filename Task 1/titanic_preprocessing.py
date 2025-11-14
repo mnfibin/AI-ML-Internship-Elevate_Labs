@@ -1,7 +1,7 @@
 """
 Titanic Dataset: Data Cleaning & Preprocessing Pipeline
 ========================================================
-Author: AIML Internship Task
+Author: FIBIN MN
 Version: 1.0.0
 Description: Modular preprocessing script for Titanic dataset
 
