@@ -401,28 +401,33 @@ Categorical Features:
 ## 📊 Visualizations
 
 ### **Distribution Analysis**
-![Distributions](https://via.placeholder.com/800x400?text=Distribution+Plots)
+![Distributions](visualizations/distributions/distribution_plot1.png)
+![Distributions](visualizations/distributions/distribution_plot2.png)
 - Histograms for all numerical features
 - KDE plots overlaid
 - Mean and median lines
 - Outlier identification
 
 ### **Survival Analysis**
-![Survival](https://via.placeholder.com/800x400?text=Survival+Analysis)
+![Survival](visualizations/survival_analysis/survival_analysis_plot1.png)
+![Survival](visualizations/survival_analysis/survival_analysis_plot2.png)
 - Survival rates by demographics
 - Gender-based analysis
 - Class-based comparison
 - Age group distributions
 
 ### **Correlation Matrix**
-![Correlation](https://via.placeholder.com/800x400?text=Correlation+Heatmap)
+![Correlation](visualizations/correlations/correlations_plot1.png)
+![Correlation](visualizations/correlations/correlations_plot2.png)
 - Feature relationships
 - Multicollinearity detection
 - Survival correlations
 - Color-coded intensity
 
 ### **Interactive Dashboards**
-![Dashboard](https://via.placeholder.com/800x400?text=Interactive+Dashboard)
+![Dashboard](visualizations/interactive/pairplot1.png)
+![Dashboard](visualizations/interactive/pairplot2.png)
+![Dashboard](visualizations/interactive/pairplot3.png)
 - Plotly 3D visualizations
 - Dynamic filtering
 - Hover information
