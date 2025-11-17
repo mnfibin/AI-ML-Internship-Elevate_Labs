@@ -220,7 +220,7 @@ Task 2/
 │   └── Titanic-Dataset.csv          # Dataset file
 │
 ├── notebooks/
-│   └── Titanic_EDA.ipynb            # Jupyter notebook with analysis
+│   └── Titanic_EDA.ipynb            # Google colab file
 │
 ├── src/
 │   └── titanic_eda.py               # Main Python script
