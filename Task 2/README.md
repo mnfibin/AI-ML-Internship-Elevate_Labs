@@ -131,8 +131,8 @@ plotly==5.0.0+          # Interactive visualizations
 
 #### **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/titanic-eda.git
-cd titanic-eda
+git clone https://github.com/mnfibin/AI-ML-Internship-Elevate_Labs.git
+cd Task\ 2
 ```
 
 #### **Step 2: Create Virtual Environment**
