@@ -10,6 +10,7 @@ A comprehensive implementation of Simple and Multiple Linear Regression for pred
 
 - [Overview](#overview)
 - [Features](#features)
+- [Technologies Used](#technologies-used)
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -19,7 +20,6 @@ A comprehensive implementation of Simple and Multiple Linear Regression for pred
 - [Visualizations](#visualizations)
 - [Model Evaluation Metrics](#model-evaluation-metrics)
 - [Key Insights](#key-insights)
-- [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 
 ## 🎯 Overview
@@ -35,6 +35,15 @@ This project demonstrates the implementation of **Linear Regression** for predic
 - **Feature Importance Analysis**: Understanding which features impact price most
 - **Residual Analysis**: Checking model assumptions
 - **Well-Documented Code**: Detailed comments and explanations
+
+## 🛠️ Technologies Used
+
+- **Python 3.8+**: Programming language
+- **Pandas**: Data manipulation and analysis
+- **NumPy**: Numerical computations
+- **Matplotlib**: Data visualization
+- **Seaborn**: Statistical visualizations
+- **Scikit-learn**: Machine learning algorithms and metrics
 
 ## 📊 Dataset
 
@@ -260,15 +269,6 @@ Proportion of variance explained by the model (0 to 1).
 - More bedrooms (when area is constant - multicollinearity effect)
 - More stories (surprising - may need further investigation)
 
-## 🛠️ Technologies Used
-
-- **Python 3.8+**: Programming language
-- **Pandas**: Data manipulation and analysis
-- **NumPy**: Numerical computations
-- **Matplotlib**: Data visualization
-- **Seaborn**: Statistical visualizations
-- **Scikit-learn**: Machine learning algorithms and metrics
-
 ## 🤝 Contributing
 
 Contributions are welcome! Here's how you can help:
@@ -278,6 +278,7 @@ Contributions are welcome! Here's how you can help:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
 
 
 
