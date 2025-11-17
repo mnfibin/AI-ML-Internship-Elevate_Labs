@@ -67,8 +67,8 @@ The dataset contains **545 house records** with the following features:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/linear-regression-house-price.git
-cd linear-regression-house-price
+git clone https://github.com/mnfibin/AI-ML-Internship-Elevate_Labs.git
+cd Task\ 3
 ```
 
 ### Step 2: Install Required Libraries
@@ -288,4 +288,5 @@ Contributions are welcome! Here's how you can help:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
 
