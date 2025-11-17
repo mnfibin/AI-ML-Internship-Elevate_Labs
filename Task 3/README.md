@@ -269,16 +269,6 @@ Proportion of variance explained by the model (0 to 1).
 - **Seaborn**: Statistical visualizations
 - **Scikit-learn**: Machine learning algorithms and metrics
 
-## 📦 Requirements
-
-```txt
-pandas>=1.3.0
-numpy>=1.21.0
-matplotlib>=3.4.0
-seaborn>=0.11.0
-scikit-learn>=1.0.0
-```
-
 ## 🤝 Contributing
 
 Contributions are welcome! Here's how you can help:
@@ -288,5 +278,6 @@ Contributions are welcome! Here's how you can help:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
 
 
