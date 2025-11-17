@@ -113,7 +113,7 @@ The script will:
 ## 📁 Project Structure
 
 ```
-linear-regression-house-price/
+Task 3/
 │
 ├── linear_regression_house_price.py   # Main Python script
 ├── Housing.csv                         # Dataset
@@ -122,6 +122,7 @@ linear-regression-house-price/
 │
 ├── notebook/                            
 │   ├── Linear_Regression.ipynb         # Google colab file
+│
 ├── outputs/                            # Generated outputs
 │   ├── correlation_heatmap.png
 │   ├── price_distribution.png
@@ -133,6 +134,7 @@ linear-regression-house-price/
 │
 └── docs/
     └── methodology.md                  # Detailed methodology
+    └── results.md                      # Detailed result
 ```
 
 ## 🔬 Methodology
@@ -286,3 +288,4 @@ Contributions are welcome! Here's how you can help:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
