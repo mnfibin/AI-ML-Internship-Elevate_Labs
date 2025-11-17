@@ -99,8 +99,8 @@ Make sure you have Python 3.8+ installed on your system.
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/titanic-data-preprocessing.git
-cd titanic-data-preprocessing
+git clone https://github.com/mnfibin/AI-ML-Internship-Elevate_Labs.git
+cd Task\ 1
 ```
 
 ### Step 2: Install Required Libraries
@@ -547,4 +547,5 @@ X_train, y_train = preprocess_titanic('Titanic-Dataset.csv')
 ```
 
 ---
+
 
