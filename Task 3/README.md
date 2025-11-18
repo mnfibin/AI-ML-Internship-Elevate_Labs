@@ -4,7 +4,6 @@ A comprehensive implementation of Simple and Multiple Linear Regression for pred
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## 📋 Table of Contents
 
@@ -278,6 +277,7 @@ Contributions are welcome! Here's how you can help:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
 
 
 
