@@ -226,12 +226,11 @@ The classification threshold determines how confident the model must be to predi
 
 ![Sigmoid Curve](outputs/sigmoid_curve.png)
 - Visualizes the Sigmoid function:
-  $$
-  S(z) = \frac{1}{1 + e^{-z}}
-  $$
-  The Sigmoid transforms the linear output \(z\) into a probability \(\phi(z) \in [0,1]\), which is used for classification.
+$$S(z) = \frac{1}{1 + e^{-z}}$$
+The Sigmoid transforms the linear output ($z$) into a probability ($\phi(z) \in [0, 1]$), which is used for classification.
 
 ---
 
 ⭐ If you found this project helpful, please give it a star!
+
 
