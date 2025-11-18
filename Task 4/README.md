@@ -202,8 +202,6 @@ The classification threshold determines how confident the model must be to predi
 
 ## 🖼️ Results & Visualizations
 
-> The script produces the following outputs (replace placeholders below with actual numbers/plots after running):
-
 1. Model Performance (Default Threshold = 0.5)
 
 | Metric | Score | Interpretation |
@@ -213,16 +211,19 @@ The classification threshold determines how confident the model must be to predi
 | Recall (Malignant) | 0.95 | Of all actual malignant cases, how many did the model correctly identify? |
 
 2. Confusion Matrix
+
 ![Confusion Matrix](outputs/confusion_matrix.png)
 - A confusion matrix plot is generated to visualize True Positives, True Negatives, False Positives, and False Negatives.
 - In medical contexts, minimizing False Negatives (missing a malignant case) is often the highest priority.
 
 3. ROC Curve
+
 ![ROC Curve](outputs/roc_curve.png)
 - Plots True Positive Rate (TPR) versus False Positive Rate (FPR).
 - The area under the curve (AUC) provides a single-summary measure of model quality.
 
 4. Sigmoid Function Plot
+
 ![Sigmoid Curve](outputs/sigmoid_curve.png)
 - Visualizes the Sigmoid function:
   $$
@@ -233,3 +234,4 @@ The classification threshold determines how confident the model must be to predi
 ---
 
 ⭐ If you found this project helpful, please give it a star!
+
