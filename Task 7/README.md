@@ -85,15 +85,20 @@ This project implements **Support Vector Machine (SVM)** classifiers for binary 
 
 ## 📊 Generated Visualizations
 
-1. Distribution of Diagnosis 
-    ![Distribution of Diagnosis](results/distribution_diagnosis)
-2. Confusion Matrix
-    ![Confusion Matrix](results/confusion_matrix.png)
-    ![Confusion Matrix](results/confusion_matrix_2.png)   
-3. Decision Boundary
-    ![Decision Boundary](results/decision_boundary.png)
-4. Model Comparison
-    ![Model Comparison](results/model_comparison.png)
+1. Distribution of Diagnosis
+
+   ![Distribution of Diagnosis](results/distribution_diagnosis.png)
+   
+3. Confusion Matrix
+   
+   ![Confusion Matrix](results/confusion_matrix.png)
+   ![Confusion Matrix](results/confusion_matrix_2.png)   
+5. Decision Boundary
+   
+   ![Decision Boundary](results/decision_boundary.png)
+7. Model Comparison
+   
+   ![Model Comparison](results/model_comparison.png)
 
 ## 📈 Results
 | Model | Test Accuracy | CV Mean |
@@ -130,3 +135,4 @@ This project implements **Support Vector Machine (SVM)** classifiers for binary 
 - RBF kernel generally outperforms linear kernel on this dataset
 - Hyperparameter tuning significantly improves accuracy
 - Cross-validation provides robust performance estimates
+
