@@ -24,6 +24,16 @@ Each task folder contains:
 
 ### 👉 **[Task 2](./Task%202/README.md)**  
 
+### 👉 **[Task 3](./Task%203/README.md)** 
+
+### 👉 **[Task 4](./Task%204/README.md)** 
+
+### 👉 **[Task 5](./Task%205/README.md)** 
+
+### 👉 **[Task 6](./Task%206/README.md)**  
+
+### 👉 **[Task 7](./Task%207/README.md)** 
+
 ---
 
 ## 🧾 **License**
