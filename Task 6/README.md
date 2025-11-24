@@ -94,11 +94,11 @@ Classes: Iris-setosa, Iris-versicolor, Iris-virginica
 
 ## 📊 Generated Visualizations
 
-1. **accuracy_plot.png** - K Value vs Accuracy 
+1. K Value vs Accuracy 
     ![Accuracy Plot](results/accuracy_plot.png)
-2. **confusion_matrix.png** - Normalized Confusion Matrix
+2. Normalized Confusion Matrix
     ![Confusion Matrix](results/confusion_matrix.png)   
-3. **decision_boundary.png** - Decision Boundary of Training and Test Data
+3. Decision Boundary of Training and Test Data
     ![Decision Boundary](results/decision_boundary.png)
 
 ## 🔍 Key Concepts
