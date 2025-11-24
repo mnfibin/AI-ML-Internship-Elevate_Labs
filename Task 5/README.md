@@ -27,7 +27,7 @@ This project demonstrates decision tree and random forest classifiers for predic
 **Heart Disease Dataset**
 - **Features**: 13 clinical attributes (age, sex, cp, trestbps, chol, fbs, restecg, thalach, exang, oldpeak, slope, ca, thal)
 - **Target**: Binary classification (0 = No heart disease, 1 = Heart disease present)
-- **Samples**: 1026 patients
+- **Samples**: 1025 patients
 - **Format**: CSV file
 
 ### Column Descriptions
