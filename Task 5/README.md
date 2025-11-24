@@ -91,15 +91,15 @@ This project demonstrates decision tree and random forest classifiers for predic
 
 ## 📊 Generated Visualizations
 
-1. **decision_tree_visualization.png** - Tree structure diagram
+1. Tree structure diagram
 	![Decision Tree](outputs/decision_tree_visualization.png)
-2. **overfitting_analysis.png** - Accuracy vs tree depth plot
+2. Accuracy vs tree depth plot
 	![Overfitting Analysis](outputs/overfitting_analysis.png)	
-3. **feature_importances.png** - Feature ranking comparison
+3. Feature ranking comparison
 	![Feature Importance](outputs/feature_importances.png)
-4. **cross_validation_scores.png** - CV scores boxplot
+4. CV scores boxplot
 	![Cross Validation](outputs/cross_validation_scores.png)
-5. **confusion_matrices.png** - Model predictions analysis
+5. Model predictions analysis
 	![Confusion Matrix](outputs/confusion_matrices.png)
 
 ## 🔍 Key Findings
