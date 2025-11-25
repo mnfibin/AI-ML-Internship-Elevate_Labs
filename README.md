@@ -66,7 +66,7 @@ This repository documents my practical learning experience in AI and Machine Lea
 
 **Skills Demonstrated**: Data cleaning, feature engineering, handling imbalanced data
 
-📁 **Folder**: `Task 1`
+📁 **Folder**: [Task 1](./Task%201/README.md)
 
 ---
 
@@ -83,7 +83,7 @@ This repository documents my practical learning experience in AI and Machine Lea
 
 **Skills Demonstrated**: Data visualization, statistical analysis, insight generation
 
-📁 **Folder**: `Task 2`
+📁 **Folder**: [Task 2](./Task%202/README.md)
 
 ---
 
@@ -100,7 +100,7 @@ This repository documents my practical learning experience in AI and Machine Lea
 
 **Skills Demonstrated**: Regression analysis, model evaluation, predictive modeling
 
-📁 **Folder**: `Task 3`
+📁 **Folder**: [Task 3](./Task%203/README.md)
 
 ---
 
@@ -118,7 +118,7 @@ This repository documents my practical learning experience in AI and Machine Lea
 
 **Skills Demonstrated**: Classification algorithms, medical data analysis, model validation
 
-📁 **Folder**: `Task 4`
+📁 **Folder**: [Task 4](./Task%204/README.md)
 
 ---
 
@@ -136,7 +136,7 @@ This repository documents my practical learning experience in AI and Machine Lea
 
 **Skills Demonstrated**: Ensemble learning, tree-based models, feature importance analysis
 
-📁 **Folder**: `Task 5`
+📁 **Folder**: [Task 5](./Task%205/README.md)
 
 ---
 
@@ -154,7 +154,7 @@ This repository documents my practical learning experience in AI and Machine Lea
 
 **Skills Demonstrated**: Distance-based learning, hyperparameter optimization, algorithm comparison
 
-📁 **Folder**: `Task 6`
+📁 **Folder**: [Task 6](./Task%206/README.md)
 
 ---
 
@@ -172,7 +172,7 @@ This repository documents my practical learning experience in AI and Machine Lea
 
 **Skills Demonstrated**: Kernel methods, advanced classification, hyperplane optimization
 
-📁 **Folder**: `Task 7`
+📁 **Folder**: [Task 7](./Task%207/README.md)
 
 ---
 
@@ -190,7 +190,7 @@ This repository documents my practical learning experience in AI and Machine Lea
 
 **Skills Demonstrated**: Unsupervised learning, customer analytics, business intelligence
 
-📁 **Folder**: `Task 8`
+📁 **Folder**: [Task 8](./Task%208/README.md)
 
 ---
 
